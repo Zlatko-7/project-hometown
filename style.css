@@ -1,0 +1,133 @@
+body{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    color: #f8f9fa;
+    background: linear-gradient(#3e92cc, #81c3d7);
+    
+}
+   
+
+
+
+h1, h2, h3, h4, p{
+          text-shadow: 0px 0px 3px silver;
+          
+
+}
+
+.naslov {
+      padding: 10px 25px;
+      color: #03045e;
+      background: #ffb703;
+      border-radius: 30px;
+
+}
+
+
+.main {
+         display: flex;
+         justify-content: center;
+         flex-direction: column;
+         align-items: center;
+
+     
+}
+
+
+
+.h33{
+
+    margin-top: 80px;
+
+}
+
+#ohrid {
+    background: url("images/ohrid.jpg");
+}
+
+.img-ohrid {
+
+    height: 390px;
+    width:  610px;
+    border: 8px solid #f8f9fa;
+    border-radius: 10px;
+    background-image: url("images/ohrid.jpg");
+    background-size: cover;
+    margin: 0 auto;
+    
+}
+
+.spn {
+    color: #03045e;
+    padding: 10px 25px;
+    background: #ffb703;
+    border-radius: 30px;
+}
+
+
+.img-ohrid:hover{
+	background: url("images/star.jpg");
+}
+
+#img-row {
+	height: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+    
+
+    .paragraf {
+           padding: 10px 25px;
+           color: #03045e;
+           background: #ffb703;
+           border-radius: 30px;
+
+    }
+   
+    
+
+
+
+.img-b {
+
+       border: 8px solid #f8f9fa;
+       border-radius: 10px;
+       
+
+
+}
+
+
+.final {
+    width: 300px;
+    margin: 0 auto;
+    border-bottom: 5px solid white;
+    padding: 10px 20px;
+    text-shadow: 0px 0px 3px black;
+    background: linear-gradient(#1b263b, #415a77);
+    border-radius: 8px;
+    font-family: 'K2D', sans-serif;
+    color: #ffb703;
+
+
+    
+}
+
+
+.zlatko {
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+
+  
+
+
+
+
+
+
